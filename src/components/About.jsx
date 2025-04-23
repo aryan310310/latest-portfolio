@@ -38,7 +38,7 @@ const About = () => {
               On a different note, I'm also into investing. It's not just a hobby; I see it as a way to capture finances.</p>
 
             <ButtonLink
-              url='https://drive.google.com/file/d/1pjqTd6KgJWmpvk86D-Uuevi1CusxJx3e/view?usp=drive_link'
+              url='https://drive.google.com/file/d/1K66v24WtUmMjASDVzgQ1cukX5p-clDpz/view?usp=drive_link'
               text='View Resume →'
               padding={`p-3`}
             />
